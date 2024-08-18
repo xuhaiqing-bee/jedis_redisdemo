@@ -2,9 +2,7 @@ package com.xhq.jedis;
 
 import redis.clients.jedis.Jedis;
 
-import java.lang.reflect.Parameter;
 import java.util.Random;
-import java.util.Scanner;
 
 /**
  * @Author：XuHaiqing
