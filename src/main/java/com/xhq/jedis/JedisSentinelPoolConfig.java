@@ -14,7 +14,7 @@ import java.util.Set;
  * @name：JedisSentinelPoolConfig
  * @Date：2024/8/20 15:50
  * @Filename：JedisSentinelPoolConfig
- * @Description：主从复制
+ * @Description：主从复制配置类
  */
 public class JedisSentinelPoolConfig {
     private static JedisSentinelPool jedisSentinelPool = null;
